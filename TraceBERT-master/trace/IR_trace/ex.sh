@@ -1,0 +1,1 @@
+nohup ./eval_IR.sh &
